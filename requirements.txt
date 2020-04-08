@@ -1,0 +1,8 @@
+flask
+vk
+vk_api
+numpy
+random
+bs4
+requests
+nltk
